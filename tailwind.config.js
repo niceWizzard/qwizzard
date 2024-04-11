@@ -6,8 +6,25 @@ export default {
       textColor: "#f6f6f6",
       colors: {
         onBg : {
-          DEFAULT: "#f6f6f6"
+          DEFAULT: "#e4e4e4",
+
+        
+        
         },
+        danger: {
+          '50': '#ffeef2',
+          '100': '#ffdae3',
+          '200': '#ffbbcc',
+          '300': '#ff8ba8',
+          '400': '#ff4976',
+          '500': '#ff114c',
+          '600': '#ff0040',
+          '700': '#e7003a',
+          '800': '#be002f',
+          '900': '#800020',
+          '950': '#560015',
+      },
+      
         main: {
           DEFAULT: "#4E9F3D",
           '50': '#f4fbf2',
