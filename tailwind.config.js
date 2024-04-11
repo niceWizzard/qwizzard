@@ -3,6 +3,7 @@ export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts}"],
   theme: {
     extend: {
+      textColor: "#f6f6f6",
       colors: {
         main: {
           DEFAULT: "#4E9F3D",
