@@ -5,6 +5,9 @@ export default {
     extend: {
       textColor: "#f6f6f6",
       colors: {
+        onBg : {
+          DEFAULT: "#f6f6f6"
+        },
         main: {
           DEFAULT: "#4E9F3D",
           '50': '#f4fbf2',
