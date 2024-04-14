@@ -13,6 +13,12 @@ export default defineNuxtConfig({
       github: {
         clientId: process.env.GITHUB_CLIENT_ID,
         clientSecret: process.env.GITHUB_CLIENT_SECRET
+      },
+      fb: {
+        API_KEY: process.env.FB_API_KEY,
+        FB_PROJECT_ID: process.env.FB_PROJECT_ID,
+        APP_ID: process.env.FB_APP_ID,
+        MEASUREMENT_ID: process.env.FB_MEASUREMENT_ID
       }
     }
   },
